@@ -2,9 +2,9 @@
 
 This theme brings colors from XCode Dark theme to IntelliJ.
 
-Designed to work with dark macOS theme, not tested on other operating systems.
-
 ![logo](resources/META-INF/pluginIcon.svg)
+
+Designed to work with dark macOS theme, not tested on other operating systems.
 
 ## XCode Dark palette
 
