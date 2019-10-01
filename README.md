@@ -1,6 +1,6 @@
 # IntelliJ XCode Dark Theme
 
-This theme brings colors the from XCode Dark theme to IntelliJ IDE's.
+This theme brings colors from the XCode Dark theme to IntelliJ IDE's.
 
 ![logo](resources/META-INF/pluginIcon.svg)
 
