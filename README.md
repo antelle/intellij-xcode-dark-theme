@@ -10,8 +10,17 @@ Designed to work with the macOS dark theme, not tested on other operating system
 
 ![screenshot: settings](images/screenshot-settings.png)
 
+Recommended font: "SF Mono".
+
 ## XCode Dark palette
 
-Colors are taken from the XCode Dark palette:
+This theme is not an exact copy, but rather an artist's impression
+of an editor theme with these colors.
+
+Here are the colors from the XCode Dark palette:
 
 ![palette](images/xcode-dark-palette.svg)
+
+## License
+
+[MIT](LICENSE)
