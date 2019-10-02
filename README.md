@@ -12,6 +12,8 @@ Designed to work with the macOS dark theme, not tested on other operating system
 
 ![screenshot: settings](images/screenshot-settings.png)
 
+![screenshot: actions](images/screenshot-actions.png)
+
 Recommended font: "SF Mono".
 
 ## XCode Dark palette
