@@ -1,4 +1,8 @@
-.idea/workspace.xml
+.idea/
+!.idea/workspace.xml
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/vcs.xml
 out/
 .DS_Store
 *.jar

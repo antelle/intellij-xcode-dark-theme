@@ -152,6 +152,10 @@
       "passedEndColor": "#368E68"
     },
 
+    "ToggleButton": {
+      "onBackground": "#1D7BED"
+    },
+
     "icons": {
       "ColorPalette": {
         "Actions.Grey": "#969798",

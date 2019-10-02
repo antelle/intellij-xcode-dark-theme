@@ -196,6 +196,11 @@
         <option name="FOREGROUND" value="fd7cb2" />
       </value>
     </option>
+    <option name="HTT_TAG">
+      <value>
+        <option name="FOREGROUND" value="e0c5ff" />
+      </value>
+    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4d5565" />
