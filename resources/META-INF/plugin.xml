@@ -1,11 +1,28 @@
 <idea-plugin>
   <id>net.antelle.intellij-xcode-dark-theme</id>
-  <name>XCode-inspired theme for IntelliJ IDEA</name>
+  <name>XCode-Dark Theme</name>
   <version>1.0</version>
   <vendor email="antelle.net@gmail.com" url="https://antelle.net">Antelle</vendor>
 
   <description><![CDATA[
-      This theme brings colors from XCode Dark theme to IntelliJ.
+  This theme brings colors from the XCode Dark theme to IntelliJ.
+
+  <br/><br/>
+  To install:
+  <ul>
+  <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin, and install it</li>
+  <li>Restart the IDE</li>
+  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and select it in the <i>Theme</i> dropdown</li>
+  </ul>
+  <br/>
+
+  <a href="https://github.com/antelle/intellij-xcode-dark-theme">GitHub: source code and issues</a>
+  <br/><br/><br/>
+  <img src="https://github.com/antelle/intellij-xcode-dark-theme/raw/master/images/screenshot-code.png" border="0" width="1005" alt="Code screenshot">
+  <br/>
+  <img src="https://raw.githubusercontent.com/antelle/intellij-xcode-dark-theme/master/images/screenshot-settings.png" border="0" width="1012" alt="Settings screenshot">
+  <br/>
+  <img src="https://raw.githubusercontent.com/antelle/intellij-xcode-dark-theme/master/images/screenshot-actions.png" border="0" width="718" alt="Actions screenshot">
   ]]></description>
 
   <change-notes><![CDATA[
