@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.antelle.intellij-xcode-dark-theme</id>
   <name>XCode-Dark Theme</name>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <vendor email="antelle.net@gmail.com" url="https://antelle.net">Antelle</vendor>
 
   <description><![CDATA[
@@ -26,12 +26,18 @@
   ]]></description>
 
   <change-notes><![CDATA[
-    <p>v1.0.0 <small>2019-10-01</small></p><ul>
+    <p>v1.0.1 <small>2019-10-02</small></p><ul>
+    <li>Fixed dependencies</li>
+    </ul>
+
+    <p>v1.0.0 <small>2019-10-02</small></p><ul>
     <li>First version released</li>
     </ul>
   ]]></change-notes>
 
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="ef29b6ef-e306-45f0-919d-6264c9105248" path="/XCode-Dark.theme.json"/>
