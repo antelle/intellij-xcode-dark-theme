@@ -23,7 +23,7 @@ Actions:
 ![screenshot: actions](images/screenshot-actions.png)
 
 Recommended font: _SF Mono_
-([https://medium.com/@shashikant.jagtap/getting-apples-sf-mono-font-in-macos-1de5183add84](how to install)).
+([how to install](https://medium.com/@shashikant.jagtap/getting-apples-sf-mono-font-in-macos-1de5183add84)).
 
 ## XCode Dark palette
 
