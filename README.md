@@ -8,7 +8,7 @@ Designed to work with the macOS dark theme, not tested on other operating system
 
 ## Installation
 
-Install this plugin from JetBrains marketplace:
+The plugin can be installed from the JetBrains marketplace:
 https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme/
 
 ## Screenshots
