@@ -6,6 +6,11 @@ This theme brings colors from the XCode Dark theme to IntelliJ IDE's.
 
 Designed to work with the macOS dark theme, not tested on other operating systems.
 
+## Installation
+
+Install this plugin from JetBrains marketplace:
+https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme/
+
 ## Screenshots
 
 ![screenshot: code](images/screenshot-code.png)
