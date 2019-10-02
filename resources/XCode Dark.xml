@@ -1,10 +1,10 @@
 <scheme name="XCode Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-10-01T23:25:41</property>
+    <property name="created">2019-10-02T06:21:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-01T23:25:49</property>
-    <property name="originalScheme">_@user_XCode</property>
+    <property name="modified">2019-10-02T06:22:05</property>
+    <property name="originalScheme">_@user_XCode Dark</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="2f3239" />
@@ -12,6 +12,8 @@
     <option name="WHITESPACES" value="4f535f" />
   </colors>
   <attributes>
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="df1a21" />
@@ -212,6 +214,7 @@
         <option name="BACKGROUND" value="c4d3f1" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
@@ -220,6 +223,7 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="2f3239" />

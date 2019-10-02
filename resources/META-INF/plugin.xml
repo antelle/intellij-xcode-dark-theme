@@ -17,7 +17,7 @@
   <idea-version since-build="173.0"/>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="ef29b6ef-e306-45f0-919d-6264c9105248" path="/XCode-Dark.theme.json"/>
+    <themeProvider id="ef29b6ef-e306-45f0-919d-6264c9105248" path="/XCode Dark.theme.json"/>
   </extensions>
 
   <actions>

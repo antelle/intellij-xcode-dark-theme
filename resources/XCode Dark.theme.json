@@ -2,7 +2,7 @@
   "name": "XCode Dark",
   "dark": true,
   "author": "Antelle",
-  "editorScheme": "/XCode-Dark.xml",
+  "editorScheme": "/XCode Dark.xml",
   "ui": {
     "*": {
       "background": "#323333",
@@ -77,13 +77,13 @@
     },
 
     "ComboBox": {
-      "nonEditableBackground": "#696A6B",
+      "nonEditableBackground": "#4f5051",
       "background": "#414141",
       "ArrowButton": {
         "iconColor": "#DBDBDB",
         "background": "#1E67D7",
         "disabledIconColor": "#6B6B6C",
-        "nonEditableBackground": "#696A6B"
+        "nonEditableBackground": "#4f5051"
       }
     },
 
