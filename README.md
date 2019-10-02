@@ -13,13 +13,17 @@ https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme/
 
 ## Screenshots
 
+Code:
 ![screenshot: code](images/screenshot-code.png)
 
+Settings:
 ![screenshot: settings](images/screenshot-settings.png)
 
+Actions:
 ![screenshot: actions](images/screenshot-actions.png)
 
-Recommended font: "SF Mono".
+Recommended font: _SF Mono_
+([https://medium.com/@shashikant.jagtap/getting-apples-sf-mono-font-in-macos-1de5183add84](how to install)).
 
 ## XCode Dark palette
 
