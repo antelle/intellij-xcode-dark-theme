@@ -6,6 +6,8 @@ This theme brings colors from the XCode Dark theme to IntelliJ IDE's.
 
 Designed to work with the macOS dark theme, not tested on other operating systems.
 
+## Screenshots
+
 ![screenshot: code](images/screenshot-code.png)
 
 ![screenshot: settings](images/screenshot-settings.png)
