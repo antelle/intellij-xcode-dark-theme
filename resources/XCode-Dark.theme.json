@@ -141,6 +141,28 @@
       "visitedForeground": "#7094FF"
     },
 
+    "Notification": {
+      "errorForeground": "#DFDFE0",
+      "errorBackground": "#843937",
+      "errorBorderColor": "#982B31",
+
+      "MoreButton.innerBorderColor": "#4b4c4d",
+
+      "ToolWindow": {
+        "informativeForeground": "#DFDFE0",
+        "informativeBackground": "#225DA1",
+        "informativeBorderColor": "#1C61CA",
+
+        "warningForeground": "#DFDFE0",
+        "warningBackground": "#A98938",
+        "warningBorderColor": "#FEC42E",
+
+        "errorForeground": "#DFDFE0",
+        "errorBackground": "#843937",
+        "errorBorderColor": "#982B31"
+      }
+    },
+
     "ProgressBar": {
       "trackColor": "#252525",
       "progressColor": "#CDCCCC",
@@ -150,6 +172,15 @@
       "failedEndColor": "#982B31",
       "passedColor": "#3AA87B",
       "passedEndColor": "#368E68"
+    },
+
+    "SearchMatch": {
+      "startBackground": "#f5bc2d",
+      "endBackground": "#e9b32b"
+    },
+
+    "SpeedSearch": {
+      "errorForeground": "#DF1A21"
     },
 
     "ToggleButton": {
