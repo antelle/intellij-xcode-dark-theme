@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.antelle.intellij-xcode-dark-theme</id>
   <name>XCode-Dark Theme</name>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <vendor email="antelle.net@gmail.com" url="https://antelle.net">Antelle</vendor>
 
   <description><![CDATA[
@@ -18,14 +18,19 @@
 
   <a href="https://github.com/antelle/intellij-xcode-dark-theme">GitHub: source code and issues</a>
   <br/><br/><br/>
-  <img src="https://github.com/antelle/intellij-xcode-dark-theme/raw/master/images/screenshot-code.png" border="0" width="1005" alt="Code screenshot">
+  <img src="https://raw.githubusercontent.com/antelle/intellij-xcode-dark-theme/master/images/screenshot-small-code.png" border="0" width="500" alt="Code screenshot">
   <br/>
-  <img src="https://raw.githubusercontent.com/antelle/intellij-xcode-dark-theme/master/images/screenshot-settings.png" border="0" width="1012" alt="Settings screenshot">
+  <img src="https://raw.githubusercontent.com/antelle/intellij-xcode-dark-theme/master/images/screenshot-small-settings.png" border="0" width="506" alt="Settings screenshot">
   <br/>
-  <img src="https://raw.githubusercontent.com/antelle/intellij-xcode-dark-theme/master/images/screenshot-actions.png" border="0" width="718" alt="Actions screenshot">
+  <img src="https://raw.githubusercontent.com/antelle/intellij-xcode-dark-theme/master/images/screenshot-small-actions.png" border="0" width="359" alt="Actions screenshot">
   ]]></description>
 
   <change-notes><![CDATA[
+    <p>v1.0.2 <small>2019-10-09</small></p><ul>
+    <li>Fixed notification colors</li>
+    <li>Updated screenshots</li>
+    </ul>
+
     <p>v1.0.1 <small>2019-10-02</small></p><ul>
     <li>Fixed dependencies</li>
     </ul>
