@@ -26,6 +26,10 @@
   ]]></description>
 
   <change-notes><![CDATA[
+    <p>v1.0.3 <small>2019-10-10</small></p><ul>
+    <li>Fixed matching brace color</li>
+    </ul>
+
     <p>v1.0.2 <small>2019-10-09</small></p><ul>
     <li>Fixed notification and search colors</li>
     <li>Updated screenshots</li>

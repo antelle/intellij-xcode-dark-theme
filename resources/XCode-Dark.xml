@@ -231,9 +231,10 @@
     <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2f3239" />
-        <option name="BACKGROUND" value="fef937" />
+        <option name="BACKGROUND" value="DFDFE066" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" value="DFDFE066" />
       </value>
     </option>
     <option name="PERL_ARRAY">
