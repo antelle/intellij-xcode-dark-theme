@@ -167,7 +167,7 @@
       "trackColor": "#252525",
       "progressColor": "#CDCCCC",
       "indeterminateStartColor": "#CDCCCC",
-      "indeterminateEndColor": "#b4b3b3",
+      "indeterminateEndColor": "#B4B3B3",
       "failedColor": "#DF1A21",
       "failedEndColor": "#982B31",
       "passedColor": "#3AA87B",
@@ -185,6 +185,11 @@
 
     "ToggleButton": {
       "onBackground": "#1D7BED"
+    },
+
+    "CompletionPopup": {
+      "matchForeground": "#FDA14F",
+      "selectionBackground": "#1D7BED"
     },
 
     "icons": {

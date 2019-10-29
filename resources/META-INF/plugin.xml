@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.antelle.intellij-xcode-dark-theme</id>
   <name>XCode-Dark Theme</name>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <vendor email="antelle.net@gmail.com" url="https://antelle.net">Antelle</vendor>
 
   <description><![CDATA[
@@ -26,6 +26,10 @@
   ]]></description>
 
   <change-notes><![CDATA[
+    <p>v1.0.5 <small>2019-10-29</small></p><ul>
+    <li>Fixed code completion tooltip text colors</li>
+    </ul>
+
     <p>v1.0.4 <small>2019-10-27</small></p><ul>
     <li>Removed transparency from matching braces causing different issues</li>
     </ul>
