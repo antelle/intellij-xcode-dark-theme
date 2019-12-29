@@ -99,7 +99,7 @@
     },
 
     "Counter": {
-      "background": "#FFFFFF80",
+      "background": "#909090",
       "foreground": "#000000"
     },
 
@@ -126,12 +126,12 @@
     },
 
     "FileColor": {
-      "Yellow": "#89744D20",
-      "Green": "#5D755420",
-      "Blue": "#41648A20",
-      "Violet": "#816B8020",
-      "Orange": "#87654920",
-      "Rose": "#87576E20"
+      "Yellow": "#3D3B37",
+      "Green": "#383C38",
+      "Blue": "#343A3E",
+      "Violet": "#3C3A3D",
+      "Orange": "#3D3A36",
+      "Rose": "#3D383B"
     },
 
     "Link": {
@@ -209,7 +209,7 @@
         "Objects.Green": "#71bf47",
         "Objects.Blue": "#3062d1",
         "Objects.Purple": "#A453A5",
-        "Objects.BlackText": "#000000ff",
+        "Objects.BlackText": "#000000",
         "Objects.YellowDark": "#89744D",
         "Objects.GreenAndroid": "#5D7554"
       }

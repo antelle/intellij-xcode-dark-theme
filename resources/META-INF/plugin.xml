@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.antelle.intellij-xcode-dark-theme</id>
   <name>XCode-Dark Theme</name>
-  <version>1.0.5</version>
+  <version>1.0.6</version>
   <vendor email="antelle.net@gmail.com" url="https://antelle.net">Antelle</vendor>
 
   <description><![CDATA[
@@ -26,6 +26,10 @@
   ]]></description>
 
   <change-notes><![CDATA[
+    <p>v1.0.6 <small>2019-12-29</small></p><ul>
+    <li>Fixed colors in UML diagrams</li>
+    </ul>
+
     <p>v1.0.5 <small>2019-10-29</small></p><ul>
     <li>Fixed code completion tooltip text colors</li>
     </ul>
