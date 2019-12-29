@@ -12,7 +12,7 @@
   <ul>
   <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin, and install it</li>
   <li>Restart the IDE</li>
-  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and select it in the <i>Theme</i> dropdown</li>
+  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and select XCode-Dark in the <i>Theme</i> dropdown</li>
   </ul>
   <br/>
 
