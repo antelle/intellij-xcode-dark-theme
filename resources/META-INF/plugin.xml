@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.antelle.intellij-xcode-dark-theme</id>
   <name>Xcode-Dark Theme</name>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   <vendor email="antelle.net@gmail.com" url="https://antelle.net">Antelle</vendor>
 
   <description><![CDATA[
@@ -26,6 +26,10 @@
   ]]></description>
 
   <change-notes><![CDATA[
+    <p>v1.0.7 <small>2020-02-16</small></p><ul>
+    <li>Fixed plugin name: now it's Xcode instead of XCode</li>
+    </ul>
+
     <p>v1.0.6 <small>2019-12-29</small></p><ul>
     <li>Fixed colors in UML diagrams</li>
     </ul>
