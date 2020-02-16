@@ -1,8 +1,8 @@
 {
-  "name": "XCode-Dark",
+  "name": "Xcode-Dark",
   "dark": true,
   "author": "Antelle",
-  "editorScheme": "/XCode-Dark.xml",
+  "editorScheme": "/Xcode-Dark.xml",
   "ui": {
     "*": {
       "background": "#323333",

@@ -1,18 +1,18 @@
 <idea-plugin>
   <id>net.antelle.intellij-xcode-dark-theme</id>
-  <name>XCode-Dark Theme</name>
+  <name>Xcode-Dark Theme</name>
   <version>1.0.6</version>
   <vendor email="antelle.net@gmail.com" url="https://antelle.net">Antelle</vendor>
 
   <description><![CDATA[
-  This theme brings colors from the XCode Dark theme to IntelliJ.
+  This theme brings colors from the Xcode Dark theme to IntelliJ.
 
   <br/><br/>
   To install:
   <ul>
   <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin, and install it</li>
   <li>Restart the IDE</li>
-  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and select XCode-Dark in the <i>Theme</i> dropdown</li>
+  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and select Xcode-Dark in the <i>Theme</i> dropdown</li>
   </ul>
   <br/>
 
@@ -61,7 +61,7 @@
   <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="ef29b6ef-e306-45f0-919d-6264c9105248" path="/XCode-Dark.theme.json"/>
+    <themeProvider id="ef29b6ef-e306-45f0-919d-6264c9105248" path="/Xcode-Dark.theme.json"/>
   </extensions>
 
   <actions>

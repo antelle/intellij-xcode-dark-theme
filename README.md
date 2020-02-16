@@ -1,6 +1,6 @@
-# IntelliJ XCode Dark Theme
+# IntelliJ Xcode Dark Theme
 
-This theme brings colors from the XCode Dark theme to IntelliJ IDE's.
+This theme brings colors from the Xcode Dark theme to IntelliJ IDE's.
 
 ![logo](resources/META-INF/pluginIcon.svg)
 
@@ -25,12 +25,12 @@ Actions:
 Recommended font: _SF Mono_
 ([how to install](https://medium.com/@shashikant.jagtap/getting-apples-sf-mono-font-in-macos-1de5183add84)).
 
-## XCode Dark palette
+## Xcode Dark palette
 
 This theme is not an exact copy, but rather an artist's impression
 of an editor theme with these colors.
 
-Here are the colors from the XCode Dark palette:
+Here are the colors from the Xcode Dark palette:
 
 ![palette](images/xcode-dark-palette.svg)
 
