@@ -238,6 +238,11 @@
         <option name="ERROR_STRIPE_COLOR" value="585859" />
       </value>
     </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="8d8e95" />
+      </value>
+    </option>
     <option name="PERL_ARRAY">
       <value />
     </option>
