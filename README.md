@@ -11,6 +11,13 @@ Designed to work with the macOS dark theme, not tested on other operating system
 The plugin can be installed from the JetBrains marketplace:
 https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme/
 
+## Feedback
+
+Is there anything wrong 😱? Please [submit an issue](https://github.com/antelle/intellij-xcode-dark-theme/issues) here.  
+
+Do you like ❤️ the project? I would be super happy if you leave a review on the
+ [JetBrains marketplace](https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme/).
+
 ## Screenshots
 
 Code:
