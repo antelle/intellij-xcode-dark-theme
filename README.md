@@ -13,7 +13,8 @@ https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme/
 
 ## Feedback
 
-Is there anything wrong 😱? Please [submit an issue](https://github.com/antelle/intellij-xcode-dark-theme/issues) here.  
+Is there anything wrong 😱? Please [open an issue](https://github.com/antelle/intellij-xcode-dark-theme/issues/new)
+ here on GitHub.  
 
 Do you like ❤️ the project? I would be super happy if you leave a review on the
  [JetBrains marketplace](https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme/).
