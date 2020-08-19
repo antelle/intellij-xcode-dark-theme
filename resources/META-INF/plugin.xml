@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.antelle.intellij-xcode-dark-theme</id>
   <name>Xcode-Dark Theme</name>
-  <version>1.1.1</version>
+  <version>1.2.0</version>
   <vendor email="antelle.net@gmail.com" url="https://antelle.net">Antelle</vendor>
 
   <description><![CDATA[
@@ -26,6 +26,10 @@
   ]]></description>
 
   <change-notes><![CDATA[
+    <p>v1.2.0 <small>2020-08-19</small></p><ul>
+    <li>Python syntax highlighting support</li>
+    </ul>
+
     <p>v1.1.1 <small>2020-04-15</small></p><ul>
     <li>Fixed contrast of selected unused variables</li>
     </ul>
