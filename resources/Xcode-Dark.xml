@@ -219,6 +219,7 @@
         <option name="BACKGROUND" value="c4d3f1" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
@@ -227,10 +228,12 @@
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="585859" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="0" />
         <option name="EFFECT_COLOR" value="585859" />
         <option name="ERROR_STRIPE_COLOR" value="585859" />
       </value>

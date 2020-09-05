@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.antelle.intellij-xcode-dark-theme</id>
   <name>Xcode-Dark Theme</name>
-  <version>1.2.0</version>
+  <version>1.2.1</version>
   <vendor email="antelle.net@gmail.com" url="https://antelle.net">Antelle</vendor>
 
   <description><![CDATA[
@@ -26,6 +26,10 @@
   ]]></description>
 
   <change-notes><![CDATA[
+    <p>v1.2.1 <small>2020-09-05</small></p><ul>
+    <li>Fixed syntax highlighting in Android studio</li>
+    </ul>
+
     <p>v1.2.0 <small>2020-08-19</small></p><ul>
     <li>Python syntax highlighting support</li>
     </ul>
