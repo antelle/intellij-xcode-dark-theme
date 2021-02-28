@@ -192,6 +192,20 @@
       "selectionBackground": "#1D7BED"
     },
 
+    "Popup": {
+      "Header": {
+        "activeBackground": "#4A4E52",
+        "inactiveBackground": "#4A4E52"
+      }
+    },
+
+    "SearchEverywhere": {
+      "Tab": {
+        "selectedForeground": "#F9FCFF",
+        "selectedBackground": "#555A5E"
+      }
+    },
+
     "icons": {
       "ColorPalette": {
         "Actions.Grey": "#969798",
