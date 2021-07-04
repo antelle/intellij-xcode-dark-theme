@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.antelle.intellij-xcode-dark-theme</id>
   <name>Xcode-Dark Theme</name>
-  <version>1.2.3</version>
+  <version>1.2.4</version>
   <vendor email="antelle.net@gmail.com" url="https://antelle.net">Antelle</vendor>
 
   <description><![CDATA[
@@ -26,6 +26,10 @@
   ]]></description>
 
   <change-notes><![CDATA[
+    <p>v1.2.4 <small>2021-07-04</small></p><ul>
+    <li>Fixed non-project tabs highlighting</li>
+    </ul>
+
     <p>v1.2.3 <small>2021-06-30</small></p><ul>
     <li>Fixed XML coloring in cshtml (Rider)</li>
     </ul>
